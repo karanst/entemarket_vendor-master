@@ -1,0 +1,28 @@
+
++ Add Product 
+
+
++ Seller Profile Update Added
++ Added Push Notification For Seller Commission 
++ Fixed bug in Delivary Boy Update in Seller app
++ Fixed Balance update issue After Withdrawal request in Seller app
++ Remove awaiting orders field in seller app 
+
+// notes for add product screen 
+1. Tags in chips    
+2. zipcode in chips
+3. video & images from Media
+5. Attribute value
+6. Variant_Product
+7. validation in without textform parameters
+
+xrandr --output HDMI-1 --brightness 0.6
+api doc
+=> http://vendor.eshopweb.store/seller-api-doc.txt
+
+
+
+final String baseUrl = 'https://vendor.eshopweb.store/seller/app/v1/api/';
+
+final String jwtKey = "68f05dec6014f68e760c5c5fa3e31bcf391a2e10";
+
